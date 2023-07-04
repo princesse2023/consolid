@@ -47,7 +47,7 @@
 
 					<div class="text-right p-t-13 p-b-23">
 						<span class="txt1">
-							Forgot
+							<a href="inscription.php">s'inscrire</a>
 						</span>
 
 						<!-- <a href="#" class="txt2">
@@ -60,7 +60,7 @@
 							Se connecter
 						</button>
 					</div>
-
+                        <br>
 					<!-- <div class="flex-col-c p-t-170 p-b-40">
 						<span class="txt1 p-b-9">
 							Don’t have an account?
